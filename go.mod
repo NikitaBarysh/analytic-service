@@ -1,4 +1,4 @@
-module analytic-service
+module github.com/NikitaBarysh/analytic-service
 
 go 1.22.0
 
